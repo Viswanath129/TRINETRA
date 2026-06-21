@@ -1,0 +1,6 @@
+{
+  "name": "TRINETRA",
+  "description": "TRINETRA AI - Enterprise Android Threat Intelligence & Fraud Defense Platform for financial security units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
